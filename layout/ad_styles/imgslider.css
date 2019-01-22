@@ -1,0 +1,58 @@
+#outerbox
+{
+	align:center;
+	width:48em;
+	height:27em;
+	overflow:hidden;	
+	}
+#sliderbox
+{
+	position:relative;
+	width:1000%;
+	animation-name:sliding;
+	animation-duration:25s;
+	animation-iteration-count:infinite;
+	
+}
+#sliderbox img
+{ 
+    float:left;
+	
+}
+@keyframes sliding
+{
+    0%	{
+		left:-2%;
+	}
+	16%	{
+		left:-2%;
+	}
+	20%	{
+		left:-110%;
+	}
+	36%	{
+		left:-110%;
+	}
+	40%	{
+		left:-217%;
+	}
+	56%	{
+		left:-217%;
+	}
+	60%	{
+		left:-325%;
+	}
+	76%	{
+		left:-325%;
+	}
+	80%	{
+		left:-432%;
+	}
+	96%	{
+		left:-432%;
+	}
+	100%{
+		left:-2%;
+	}
+	
+}

@@ -1,0 +1,13 @@
+@charset "utf-8";
+@import url("imgslider.css");
+@import url("forms.css");
+
+div.container-fluid{}
+.center{text-align:center; font-family:"cambria";font-size:30%;}
+
+#container#column  input{width:70px; padding:2px; border:1px solid #CCCCCC; margin:10px 10px 0 0;}
+
+
+td {
+    border: none;
+}

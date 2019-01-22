@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+@import url("navi.css");
+@import url("forms.css");
+@import url("imgslider.css");
+
+html{overflow-y:scroll;}
+
+header {
+	background-color:#000000;
+	100
+}
+
+body {
+    background-color: lavender;
+	100
+	background-image: url("images\demo\ocean.jpg");
+}
+header.image_left {
+   content:url(images/demo/abc.gif);
+   
+}​
+header.image_right {
+   content:url(images/demo/abc.gif);
+   
+}​
+navbar{
+	
+}
