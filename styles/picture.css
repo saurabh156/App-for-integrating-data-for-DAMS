@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.divp{float:left; height:120px; width:100px;margin-bottom:15px;}
+.pic{height:120px; width:100px;border:3px; border-style: groove ; border-color:#CCC; margin-bottom:15px;}
+.upload{float:left; margin-top:60px; margin-left:70px;}
+.capt{ text-align:center; color:#335fbe; font-size:18px; font:Arial, Helvetica, sans-serif; font-weight:bold; text-transform:uppercase; margin-right:100px;}
+.divg{ height:120px; width:550px;margin-bottom:15px;}
+.gpic{height:115px; width:150px;border:2px; border-style: groove ; border-color:#CCC; margin-bottom:0px;}
